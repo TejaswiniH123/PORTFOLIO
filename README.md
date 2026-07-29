@@ -151,6 +151,7 @@ Deploy easily using:
 - Netlify
 - GitHub Pages
 
+  deployed link https://tejaswinihportfolio.vercel.app/
 ---
 
 # 📬 Connect With Me
