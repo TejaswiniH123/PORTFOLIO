@@ -48,25 +48,11 @@ I enjoy continuously learning new technologies while building projects that stre
 - Tailwind CSS
 - Framer Motion
 
-### Backend
-
-- Java
-- Spring Boot
-- REST APIs
-
-### Database
-
-- MySQL
-- PostgreSQL
-
 ### Tools
 
 - Git
 - GitHub
-- Docker
-- Postman
 - VS Code
-- IntelliJ IDEA
 
 ---
 
