@@ -1,20 +1,6 @@
-<div align="center">
 
 # 🚀 Tejaswini H - Portfolio
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-blue?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO_URL)
-[![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-8.0-purple?style=for-the-badge&logo=vite)](https://vitejs.dev/)
-[![Tailwind](https://img.shields.io/badge/Tailwind-3.4-38bdf8?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-
-A modern, responsive portfolio showcasing my journey as a Software Engineer, Backend Developer, and Information Science Engineering student.
-
-**🌐 Live Demo:** YOUR_PORTFOLIO_URL
-
-</div>
-
----
 
 # ✨ About Me
 
