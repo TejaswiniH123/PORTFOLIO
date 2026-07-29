@@ -181,12 +181,3 @@ This project is open-source and available for personal use.
 | 💼 LinkedIn | https://linkedin.com/in/tejaswini-h |
 | 🐙 GitHub | https://github.com/TejaswiniH123 |
 
----
-
-<div align="center">
-
-### ⭐ If you like this portfolio, consider giving it a star!
-
-Built with ❤️ by **Tejaswini H**
-
-</div>
