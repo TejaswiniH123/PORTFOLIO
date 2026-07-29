@@ -1,6 +1,6 @@
-
+<div align="center">
 # 🚀 Tejaswini H - Portfolio
-
+</div>
 
 # ✨ About Me
 
