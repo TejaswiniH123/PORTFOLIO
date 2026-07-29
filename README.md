@@ -153,12 +153,6 @@ Deploy easily using:
 
 ---
 
-# 📄 License
-
-This project is open-source and available for personal use.
-
----
-
 # 📬 Connect With Me
 
 | Platform | Link |
