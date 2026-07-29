@@ -1,7 +1,11 @@
 <div align="center">
-# 🚀 Tejaswini H - Portfolio
-</div>
 
+# 🚀 Tejaswini H - Portfolio
+
+A modern, responsive portfolio showcasing my journey as a Software Engineer, Backend Developer, and Information Science Engineering student.
+
+
+</div>
 # ✨ About Me
 
 I'm **Tejaswini H**, a Final Year Information Science Engineering student passionate about **Backend Development**, **Software Engineering**, and building scalable applications that solve real-world problems.
