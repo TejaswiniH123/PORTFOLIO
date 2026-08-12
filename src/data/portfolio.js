@@ -135,7 +135,7 @@ export const projects = [
     "GPS",
     "Voice Assistant"
   ],
-  github: "https://github.com/TejaswiniH123/AI-navigation-assistant-for-visually-impaired",
+  github: "https://github.com/TejaswiniH123/Voice-navigation-app",
   color: "#4483BE",
   gradient: "from-blue-600/20 to-purple-600/10",
   icon: "🛡️",
